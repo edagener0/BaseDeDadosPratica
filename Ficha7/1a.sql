@@ -1,0 +1,1 @@
+select nome_func from trabalha where nome_emp = 'UALG';

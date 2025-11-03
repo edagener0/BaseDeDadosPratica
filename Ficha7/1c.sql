@@ -1,0 +1,2 @@
+select funcionario.nome_func, funcionario.rua, funcionario.cidade from funcionario join trabalha on funcionario.nome_func  = trabalha.nome_func 
+where trabalha.nome_emp  = 'UALG' and trabalha.salario >= 5000;
