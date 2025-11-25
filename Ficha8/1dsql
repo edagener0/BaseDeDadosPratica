@@ -1,0 +1,2 @@
+delete from trabalha 
+where nome_emp = 'UALG'
